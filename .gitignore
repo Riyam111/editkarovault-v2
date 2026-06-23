@@ -1,1 +1,7 @@
+# Vercel deployment config
 .vercel
+
+# Documentation & scripts (not part of the codebase)
+google_script_instructions.md
+*.docx
+create_report.py
